@@ -12,6 +12,19 @@
 
 ![Каталог Excel](https://github.com/etokosmo/devman_wines/blob/master/github/catalog.png)
 
+### Каталог товаров на сайте
+
+![Каталог на сайте](https://github.com/etokosmo/devman_wines/blob/master/github/catalog.gif)
+
+### Актуальная дата
+
+![Каталог на сайте](https://github.com/etokosmo/devman_wines/blob/master/github/year.png)
+
+## Конфигурации
+
+* Python version: 3.10
+* Libraries: requirements.txt
+
 ## Запуск
 
 - Скачайте код
